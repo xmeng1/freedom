@@ -4,5 +4,5 @@ v2ray usage
 2. https://yuan.ga/v2ray-complete-tutorial/  
 
 
-(https://www.uuidgenerator.net/)[online uuid generator]: 
 
+(online uuid generator)[https://www.uuidgenerator.net/]
