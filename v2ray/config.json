@@ -25,7 +25,10 @@
   "outboundDetour": [
     {
       "protocol": "blackhole",
-      "settings": {},
+      "settings": {
+        "method": "chacha20",
+        "password": "Password123"
+      },
       "tag": "blocked"
     }
   ],
